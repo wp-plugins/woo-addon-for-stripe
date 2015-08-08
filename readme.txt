@@ -37,8 +37,8 @@ None
 
 == Usage ==
 
-*Customer must have checked out once with WooCommerce Stripe before being able to save    new cards using this plugin. 
+Customer must have checked out once with WooCommerce Stripe before being able to save    new cards using this plugin. 
 
-*Customer visits the "My Account" page. 
+Customer visits the "My Account" page. 
 
-*Customer can add new cards in the "Add A Card" section.
+Customer adds new cards in the "Add A Card" section.
