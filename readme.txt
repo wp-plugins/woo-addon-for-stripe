@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 == Description ==
 Extends the WooCommerce Stripe gateway card management by allowing customers to save new cards without having to make a purchase.
 
-Customer must have checked out one time using Woo Stripe before being able to save new cards.
+Customer must have checked out once with WooCommerce Stripe before being able to save    new cards. 
 
 REQUIRES WOOCOMMERCE GATEWAY STRIPE (http://www.woothemes.com/products/stripe/).
 
@@ -37,7 +37,7 @@ None
 
 == Usage ==
 
-Customer must have checked out once with WooCommerce Stripe before being able to save    new cards using this plugin. 
+Customer must have checked out once with WooCommerce Stripe before being able to save    new cards. 
 
 Customer visits the "My Account" page. 
 
