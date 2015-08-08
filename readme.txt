@@ -37,6 +37,7 @@ None
 
 == Usage ==
 
+
 Customer must have checked out once with WooCommerce Stripe before being able to save    new cards. 
 
 Customer visits the "My Account" page. 
