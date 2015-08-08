@@ -38,7 +38,7 @@ None
 == Usage ==
 
 Adding a new card
-1- Customer must have checked out one time using Woo Stripe before being able to save new cards.
+1- Customer must have checked out once with WooCommerce Stripe before being able to save new cards using this plugin.
 2. Customer visits the "My Account" page.
 3. Customer can add new cards using the "Add A Card" section.
 
